@@ -1,0 +1,76 @@
+/* Head */
+.head
+{
+    padding: 20px;
+    margin: 0px;
+}
+
+.head > img
+{
+    margin-left: 500px;
+}
+
+/* Middle-1 */
+.middle-1
+{
+    margin-left: 75px;
+    margin-right: 75px;
+    background-color: rgb(236, 235, 235);
+}
+
+.middle-1 > div
+{
+    margin-left: 530px;
+}
+
+.middle-1-form
+{
+    margin-left: -50px;
+}
+
+/* Middle-2 */
+.middle-2
+{
+    margin-left: 75px;
+    margin-right: 75px;
+    margin-top: 5px;
+    flex-direction: row;
+    display: flex;
+}
+
+.middle-2-1
+{
+    background-color: #7EE5DA;
+    padding-left: 175px;  /* kutu içinde sol tarafta boşluk bırakır */
+    padding-right: 175px; /* kutu içerisinde sağ tarafta boşluk bırakır */
+}
+
+.middle-2-2
+{
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 50px;
+    padding-right: 80px;
+    background-color: #70CCC2;
+}
+
+.middle-2-3
+{
+    background-color: #62B3AA;
+    padding-left: 144px;  /* kutu içinde sol tarafta boşluk bırakır */
+    padding-right: 145px; /* kutu içerisinde sağ tarafta boşluk bırakır */
+}
+
+/* Footer */
+.footer
+{
+    font-size: 13px;
+    margin-top: 10px;
+    margin-left: 650px;
+}
+
+ul
+{
+    list-style-type: none;
+}
+
